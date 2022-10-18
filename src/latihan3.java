@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package kelompok2;
 
 /**
  *
  * @author ASUSVivoBook
  */
-public class Kelompok2 {
+public class latihan3 {
 
     /**
      * @param args the command line arguments
